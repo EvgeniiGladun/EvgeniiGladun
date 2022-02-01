@@ -17,22 +17,37 @@
 <p style="margin-top: 5px"></p>
 Хочу работать в среде единомышленников которые сплочённо трудятся над проектами и оказывают помощь команде если такая требуется &#128578;
 <p style="margin-top: 5px"></p>
-Что бы вам небыло скучно, можете сыграть в мою игру которая называется <b>"Виселица"</b>. 
+Что бы вам не было скучно, можете сыграть в мою игру которая называется <b>"Виселица"</b>.
 
 [Что за игра и как играть?](https://github.com/EvgeniiGladun/game-Hangman#что-за-игра 'Лучше ознакомиться, правильно &#128126;')
 ### [Начать играть!](https://evgeniigladun.github.io/game-Hangman/ 'Сразу так? А вы рисковый! &#128563;') по пути разберемся &#128526;
 
 <p style="margin: 50px 0"></p>
 
+/Мой проекты:
+<p></p>
+Подобие <b>instagram</b>, добавляйте свой картинки на сайт и лайкайте&#128159;
+ картинки других! 
+
+[Давай посмотрим на это &#128571;](https://evgeniigladun.github.io/mesto 'Кликай и наслаждайся!')
+&#10035; `Не финальный прооект, ещё есть над чем работать.`
+
+<p style="margin-top: 30px"></p>
+Проект <b>"Путешествие по России"</b> захватывает своей уникальностью и современным дизайном, так же минимализмом.
+
+[Путешествие по России](https://evgeniigladun.github.io/russian-travel/ 'Поехали по России!')
+
+<p style="margin: 50px 0"></p>
+
 ### /Используемые языки и технологии:
 
-[![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#html---язык-разметки-на-котором-строятся-сайты-сообщает-браузеру-что-должно-появиться-на-экране-заголовки-абзацы-ссылки-списки---любые-блоки-на-которые-делится-страница 'HTML - Язык разметки, на котором строятся сайты. Сообщает браузеру, что должно появиться на экране: заголовки, абзацы, ссылки, списки - любые блоки, на которые делится страница.')
-[![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#css---язык-стилей-если-один-элемент-большой-и-красный-а-другой-маленький-и-зеленый-это-сделано-на-css 'CSS - Язык стилей. Если один элемент большой и красный, а другой маленький и зеленый, это сделано на CSS.')
-[![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#javascript---самый-популярный-язык-программирования-в-интернете-описывает-поведение-элементов-веб-страницы-или-браузера-когда-мы-пишем-пост-и-нажимаем-отправить-за-дело-берётся-javascript-и-добавляет-наш-пост-на-страницу 'JavaScript - Самый популярный язык программирования в интернете. Описывает поведение элементов веб-страницы или браузера. Когда мы пишем пост и нажимаем «отправить», за дело берётся JavaScript и добавляет наш пост на страницу.')
-[![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#вебпак--это-сборщик-модулей-он-анализирует-модули-приложения-создает-граф-зависимостей-затем-собирает-модули-в-правильном-порядке-в-один-или-более-бандл-bundle-на-который-может-ссылаться-файл-indexhtml 'Вебпак — это сборщик модулей. Он анализирует модули приложения, создает граф зависимостей, затем собирает модули в правильном порядке в один или более бандл (bundle), на который может ссылаться файл «index.html».')
-[![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#github---облачный-сервис-чтобы-работать-над-кодом-в-команде 'Github - Облачный сервис, чтобы работать над кодом в команде.')
+[![HTML](https://img.shields.io/badge/-HTML-7f000f?style=for-the-badge&logo=html5)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#html---язык-разметки-на-котором-строятся-сайты-сообщает-браузеру-что-должно-появиться-на-экране-заголовки-абзацы-ссылки-списки---любые-блоки-на-которые-делится-страница 'HTML - Язык разметки, на котором строятся сайты. Сообщает браузеру, что должно появиться на экране: заголовки, абзацы, ссылки, списки - любые блоки, на которые делится страница.')
+[![CSS](https://img.shields.io/badge/-CSS-013685?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#css---язык-стилей-если-один-элемент-большой-и-красный-а-другой-маленький-и-зеленый-это-сделано-на-css 'CSS - Язык стилей. Если один элемент большой и красный, а другой маленький и зеленый, это сделано на CSS.')
+[![JavaScript](https://img.shields.io/badge/-JavaScript-6c6e03?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#javascript---самый-популярный-язык-программирования-в-интернете-описывает-поведение-элементов-веб-страницы-или-браузера-когда-мы-пишем-пост-и-нажимаем-отправить-за-дело-берётся-javascript-и-добавляет-наш-пост-на-страницу 'JavaScript - Самый популярный язык программирования в интернете. Описывает поведение элементов веб-страницы или браузера. Когда мы пишем пост и нажимаем «отправить», за дело берётся JavaScript и добавляет наш пост на страницу.')
+[![Webpack](https://img.shields.io/badge/-Webpack-00a2ff?style=for-the-badge&logo=Webpack)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#вебпак--это-сборщик-модулей-он-анализирует-модули-приложения-создает-граф-зависимостей-затем-собирает-модули-в-правильном-порядке-в-один-или-более-бандл-bundle-на-который-может-ссылаться-файл-indexhtml 'Вебпак — это сборщик модулей. Он анализирует модули приложения, создает граф зависимостей, затем собирает модули в правильном порядке в один или более бандл (bundle), на который может ссылаться файл «index.html».')
+[![Git](https://img.shields.io/badge/-Git-8a0000?style=for-the-badge&logo=Git)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#github---облачный-сервис-чтобы-работать-над-кодом-в-команде 'Github - Облачный сервис, чтобы работать над кодом в команде.')
 [![Bash](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#bash---это-программная-оболочка-которая-позволяет-взаимодействовать-с-программами-и-системами-компьютера-с-помощью-команд 'Bash - Это программная оболочка, которая позволяет взаимодействовать с программами и системами компьютера с помощью команд.')
-[![Node.JS](https://img.shields.io/badge/-Node.JS-090909?style=for-the-badge&logo=nodedotjs)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#nodejs---раньше-javascript-работал-только-в-браузере-nodejs-позволила-писать-на-javascript-и-серверный-код-мы-разберёмся-с-тем-как-nodejs-обрабатывает-запросы-на-сервере-и-реализуем-часть-серверной-логики-учить-ещё-один-язык-программирования-не-придётся---всё-работает-на-javascript 'Node.js - Раньше JavaScript работал только в браузере. Node.js позволила писать на JAvaScript и серверный код. Мы разберёмся с тем, как Node.js обрабатывает запросы на сервере, и реализуем часть серверной логики. Учить ещё один язык программирования не придётся - всё работает на JavaScript.')
+[![Node.JS](https://img.shields.io/badge/-Node.JS-244700?style=for-the-badge&logo=nodedotjs)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#nodejs---раньше-javascript-работал-только-в-браузере-nodejs-позволила-писать-на-javascript-и-серверный-код-мы-разберёмся-с-тем-как-nodejs-обрабатывает-запросы-на-сервере-и-реализуем-часть-серверной-логики-учить-ещё-один-язык-программирования-не-придётся---всё-работает-на-javascript 'Node.js - Раньше JavaScript работал только в браузере. Node.js позволила писать на JAvaScript и серверный код. Мы разберёмся с тем, как Node.js обрабатывает запросы на сервере, и реализуем часть серверной логики. Учить ещё один язык программирования не придётся - всё работает на JavaScript.')
 
 <p style="margin: 50px 0"></p>
 
@@ -51,5 +66,5 @@
 
 ### /Контакты:
 ***
-[![EMAIL](https://img.shields.io/badge/-e~mail-090909?style=for-the-badge&logo=gmail&logoColor=E9D54D)](me@eev9enn.ru)
+[![EMAIL](https://img.shields.io/badge/-e~mail-090909?style=for-the-badge&logo=gmail&logoColor=E9D54D)](mailto:me@eev9enn.ru)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/EEv9ENN)
