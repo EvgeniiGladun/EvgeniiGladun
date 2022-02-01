@@ -2,7 +2,7 @@
 ***
 ### React - Библиотека для разработки интерфейсов, созданная в Facebook. React позволяет делать компоненты интерфейса быстрее и переиспользовать их на разных страницах сайта. Сегодня большинство работодателей требуют опыт работы с React или другой похожей библиотекой.
 
-<p style="margin: 50px 0"></p>
+<p style="margin: 150px 0"></p>
 
 [![Express.js](https://img.shields.io/badge/express.js-090909.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](/ 'Express.js')
 ***
