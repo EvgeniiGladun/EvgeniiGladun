@@ -66,5 +66,5 @@
 
 ### /Контакты:
 ***
-[![EMAIL](https://img.shields.io/badge/-e~mail-090909?style=for-the-badge&logo=gmail&logoColor=E9D54D)](mailto:me@eev9enn.ru)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/EEv9ENN)
+[![EMAIL](https://img.shields.io/badge/-e~mail-090909?style=for-the-badge&logo=gmail&logoColor=E9D54D)](mailto:me@eev9enn.ru 'Написать мне письмо &#128231;')
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/EEv9ENN 'Написать мне в &#64;Telegram')
