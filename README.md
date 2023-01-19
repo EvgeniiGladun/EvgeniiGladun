@@ -66,6 +66,12 @@
 
 <p style="margin: 50px 0"></p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgeniiGladun&theme=tokyonight&show_icons=true)](https://github.com/EvgeniiGladun)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiGladun&theme=dark&layout=compact)](https://github.com/EvgeniiGladun)
+
+<p style="margin: 50px 0"></p>
+
 ### /Контакты:
 ***
 [![EMAIL](https://img.shields.io/badge/-e~mail-090909?style=for-the-badge&logo=gmail&logoColor=E9D54D)](mailto:me@eev9enn.ru 'Написать мне письмо &#128231;')
