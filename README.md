@@ -1,86 +1,96 @@
-[![Header](./rsc/vendor/EVGENII.png)](https://github.com/EvgeniiGladun)
+# Евгений Гладун — Frontend / Fullstack-разработчик
 
-### /Обо мне:
+**Vue 3 · Nuxt · TypeScript · Node.js** — Екатеринбург · удалённо или гибрид
 
-/ &#128578; <b>В</b>ежливость
-/ &#129299; <b>П</b>унктуальность
-/ &#128101; <b>К</b>оммуникабельность
-/ &#129337; <b>C</b>амостоятельность
-/ &#128678; <b>Д</b>исциплинированность
+У меня больше 2 лет коммерческой разработки. В финтех-команде я работал над 6 фронтенд-приложениями и сделал там больше 1 000 коммитов. В одиночку переписал с нуля билетную платформу, от схемы БД до продакшена.
 
-<p style="margin-top: 20px"></p>
-/ Добрый день, меня зовут Евгений!
+Мне важны понятная архитектура, строгая типизация и интерфейсы, которые быстро работают на телефоне.
 
-Рад вас приветствовать на своём прфиле
-[![Github](https://img.shields.io/badge/-Github-090909?style=flat&logo=Github)](https://github.com/EvgeniiGladun)
-
-<p style="margin-top: 5px"></p>
-Я начинающий веб-разработчик, опыта на данный момент у меня немного, но это поправимо &#127773; главное, я стараюсь и иду к цели!
-<p style="margin-top: 5px"></p>
-Хочу работать в среде единомышленников, которые сплочённо трудятся над проектами и оказывают помощь команде, если такая требуется &#128578;
-<p style="margin-top: 5px"></p>
-Чтобы вам не было скучно, можете сыграть в мою игру, которая называется <b>"Виселица"</b>.
-
-[Что за игра и как играть?](https://github.com/EvgeniiGladun/game-Hangman#что-за-игра "Лучше ознакомиться, правильно 👾")
-
-### [Начать играть!](https://evgeniigladun.github.io/game-Hangman/ "Сразу так? А вы рисковый! 😳") по пути разберемся &#128526;
-
-<p style="margin: 50px 0"></p>
-
-/Мои проекты:
-
-<p style="margin-top: 30px"></p>
-Подобие <b>instagram</b>, добавляйте свои картинки на сайт и лайкайте&#128159;
- картинки других!
-
-[Давай посмотрим на это &#128571;](https://evgeniigladun.github.io/mesto "Кликай и наслаждайся!")
-&#10035; `Финальный проект`
-
-<p style="margin-top: 30px"></p>
-Проект <b>"Путешествие по России"</b> захватывает своей уникальностью и современным дизайном, а также минимализмом.
-
-[Путешествие по России](https://evgeniigladun.github.io/russian-travel/ "Поехали по России!")
-&#10035; `Финальный проект`
-
-<p style="margin-top: 30px"></p>
-Дипломный проект <b>"КиноПоиск"</b> представляет собой платформу для поиска фильмов, клипов на просторе - YouTube.
-Можно отфильтровать поиск по вашим предпочтениям, так же сохранить в свой профиль понравившейся фильмы!
-
-[КиноПоиск](https://github.com/EvgeniiGladun/movies-explorer-frontend "Насладиться фильмами!")
-&#10035; `Финальный проект`
-
-<p style="margin: 50px 0"></p>
-
-### /Используемые языки и технологии:
-
-[![HTML](https://img.shields.io/badge/-HTML-7f000f?style=for-the-badge&logo=html5)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#html---язык-разметки-на-котором-строятся-сайты-сообщает-браузеру-что-должно-появиться-на-экране-заголовки-абзацы-ссылки-списки---любые-блоки-на-которые-делится-страница "HTML - Язык разметки, на котором строятся сайты. Сообщает браузеру, что должно появиться на экране: заголовки, абзацы, ссылки, списки - любые блоки, на которые делится страница.")
-[![CSS](https://img.shields.io/badge/-CSS-013685?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#css---язык-стилей-если-один-элемент-большой-и-красный-а-другой-маленький-и-зеленый-это-сделано-на-css "CSS - Язык стилей. Если один элемент большой и красный, а другой маленький и зеленый, это сделано на CSS.")
-[![JavaScript](https://img.shields.io/badge/-JavaScript-6c6e03?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#javascript---самый-популярный-язык-программирования-в-интернете-описывает-поведение-элементов-веб-страницы-или-браузера-когда-мы-пишем-пост-и-нажимаем-отправить-за-дело-берётся-javascript-и-добавляет-наш-пост-на-страницу "JavaScript - Самый популярный язык программирования в интернете. Описывает поведение элементов веб-страницы или браузера. Когда мы пишем пост и нажимаем «отправить», за дело берётся JavaScript и добавляет наш пост на страницу.")
-[![Webpack](https://img.shields.io/badge/-Webpack-00a2ff?style=for-the-badge&logo=Webpack)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#вебпак--это-сборщик-модулей-он-анализирует-модули-приложения-создает-граф-зависимостей-затем-собирает-модули-в-правильном-порядке-в-один-или-более-бандл-bundle-на-который-может-ссылаться-файл-indexhtml "Вебпак — это сборщик модулей. Он анализирует модули приложения, создает граф зависимостей, затем собирает модули в правильном порядке в один или более бандл (bundle), на который может ссылаться файл «index.html».")
-[![Git](https://img.shields.io/badge/-Git-8a0000?style=for-the-badge&logo=Git)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#github---облачный-сервис-чтобы-работать-над-кодом-в-команде "Github - Облачный сервис, чтобы работать над кодом в команде.")
-[![Bash](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#bash---это-программная-оболочка-которая-позволяет-взаимодействовать-с-программами-и-системами-компьютера-с-помощью-команд "Bash - Это программная оболочка, которая позволяет взаимодействовать с программами и системами компьютера с помощью команд.")
-[![Node.JS](https://img.shields.io/badge/-Node.JS-244700?style=for-the-badge&logo=nodedotjs)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#nodejs---раньше-javascript-работал-только-в-браузере-nodejs-позволила-писать-на-javascript-и-серверный-код-мы-разберёмся-с-тем-как-nodejs-обрабатывает-запросы-на-сервере-и-реализуем-часть-серверной-логики-учить-ещё-один-язык-программирования-не-придётся---всё-работает-на-javascript "Node.js - Раньше JavaScript работал только в браузере. Node.js позволила писать на JAvaScript и серверный код. Мы разберёмся с тем, как Node.js обрабатывает запросы на сервере, и реализуем часть серверной логики. Учить ещё один язык программирования не придётся - всё работает на JavaScript.")
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#react---библиотека-для-разработки-интерфейсов-созданная-в-facebook-react-позволяет-делать-компоненты-интерфейса-быстрее-и-переиспользовать-их-на-разных-страницах-сайта-сегодня-большинство-работодателей-требуют-опыт-работы-с-react-или-другой-похожей-библиотекой "React - Библиотека для разработки интерфейсов, созданная в Facebook. React позволяет делать компоненты интерфейса быстрее и переиспользовать их на разных страницах сайта. Сегодня большинство работодателей требуют опыт работы с React или другой похожей библиотекой.")
-[![Express.js](https://img.shields.io/badge/express.js-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#expressjs---самый-популярный-фреймворк-для-разработки-бэкенда-на-node-js-позволяет-быстро-развернуть-сервер-и-проще-поддерживать-серверный-код "Express.js - Самый популярный фреймворк для разработки бэкенда на Node. js. Позволяет быстро развернуть сервер и проще поддерживать серверный код.")
-[![NPM](https://img.shields.io/badge/NPM-%2320232a.svg?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#менеджер-пакетов-входящий-в-состав-nodejs-установка-пакета-производится-при-помощи-команды-npm-install-все-доступные-для-установки-пакеты-и-их-краткое-описание-npm-search-этой-же-командой-можно-производить-выборочный-поиск-пакетов "Менеджер пакетов, входящий в состав Node.js. Установка пакета производится при помощи команды: npm install Все доступные для установки пакеты и их краткое описание: npm search Этой же командой можно производить выборочный поиск пакетов.")
-[![REST API](https://img.shields.io/badge/REST_API-%2320232a.svg?style=for-the-badge&logo=strapi&logoColor=blue)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#архитектурный-стиль-взаимодействия-компонентов-распределённого-приложения-в-сети-другими-словами-rest---это-набор-правил-того-как-программисту-организовать-написание-кода-серверного-приложения-чтобы-все-системы-легко-обменивались-данными-и-приложение-можно-было-масштабировать-rest-представляет-собой-согласованный-набор-ограничений-учитываемых-при-проектировании-распределённой-гипермедиа-системы-в-определённых-случаях-это-приводит-к-повышению-производительности-и-упрощению-архитектуры-в-широком-смысле-компоненты-в-rest-взаимодействуют-наподобие-взаимодействия-клиентов-и-серверов-во-всемирной-паутине-rest-является-альтернативой-rpc "Архитектурный стиль взаимодействия компонентов распределённого приложения в сети. Другими словами, REST - это набор правил того, как программисту организовать написание кода серверного приложения, чтобы все системы легко обменивались данными и приложение можно было масштабировать....")
-
-<p style="margin: 50px 0"></p>
-
-### /Мой план дальнейшего (развития/изучения) в направлении <a href="https://tproger.ru/translations/frontend-backend-interaction/" title="Что это такое &#128065;">FRONT-END</a>:
-
-[![SASS](https://img.shields.io/badge/SASS-%2320232a.svg?style=for-the-badge&logo=SASS&logoColor=hotpink)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#модуль-включенный-в-haml-sass---это-метаязык-на-основе-css-предназначенный-для-увеличения-уровня-абстракции-css-кода-и-упрощения-файлов-каскадных-таблиц-стилей "Модуль, включенный в Haml. Sass - это метаязык на основе CSS, предназначенный для увеличения уровня абстракции CSS-кода и упрощения файлов каскадных таблиц стилей.")
-[![Vue.js](https://img.shields.io/badge/vue.js-%2320232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#javascript-фреймворк-с-открытым-исходным-кодом-для-создания-пользовательских-интерфейсов-легко-интегрируется-в-проекты-с-использованием-других-javascript-библиотек-может-функционировать-как-веб-фреймворк-для-разработки-одностраничных-приложений-в-реактивном-стиле "JavaScript-фреймворк с открытым исходным кодом для создания пользовательских интерфейсов. Легко интегрируется в проекты с использованием других JavaScript-библиотек. Может функционировать как веб-фреймворк для разработки одностраничных приложений в реактивном стиле.")
-[![MongoDB](https://img.shields.io/badge/Mongo_DB-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=green)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#mongodb---одна-из-самых-распространённых-баз-данных-и-самая-популярная-среди-баз-которые-используют-с-nodejs-если-в-вакансии-нужна-node-js-скорее-всего-нужна-и-mongodb "MongoDB - Одна из самых распространённых баз данных и самая популярная среди баз, которые используют с Node.js. Если в вакансии нужна Node. js, скорее всего, нужна и MongoDB.")
-[![Nginx](https://img.shields.io/badge/nginx-%2320232a.svg?style=for-the-badge&logo=nginx&logoColor=green)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#nginx---программа-для-создания-и-настройки-сервера-может-обрабатывать-десятки-тысяч-запросов-в-секунду-треть-всех-сайтов-в-интернете-используют-nginx-и-мы-не-не-можем-не-отметить-что-nginx-разработали-два-программиста-из-россии-игорь-сысоев-и-максим-коновалов "Nginx - Программа для создания и настройки сервера. Может обрабатывать десятки тысяч запросов в секунду. Треть всех сайтов в интернете используют Nginx. И мы не не можем не отметить, что Nginx разработали два программиста из России: Игорь Сысоев и Максим Коновалов.")
-[![REST API](https://img.shields.io/badge/REST_API-%2320232a.svg?style=for-the-badge&logo=strapi&logoColor=blue)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#архитектурный-стиль-взаимодействия-компонентов-распределённого-приложения-в-сети-другими-словами-rest---это-набор-правил-того-как-программисту-организовать-написание-кода-серверного-приложения-чтобы-все-системы-легко-обменивались-данными-и-приложение-можно-было-масштабировать-rest-представляет-собой-согласованный-набор-ограничений-учитываемых-при-проектировании-распределённой-гипермедиа-системы-в-определённых-случаях-это-приводит-к-повышению-производительности-и-упрощению-архитектуры-в-широком-смысле-компоненты-в-rest-взаимодействуют-наподобие-взаимодействия-клиентов-и-серверов-во-всемирной-паутине-rest-является-альтернативой-rpc "Архитектурный стиль взаимодействия компонентов распределённого приложения в сети. Другими словами, REST - это набор правил того, как программисту организовать написание кода серверного приложения, чтобы все системы легко обменивались данными и приложение можно было масштабировать....")
-[![Redux](https://img.shields.io/badge/redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/EvgeniiGladun/EvgeniiGladun/blob/main/rsc/languagesAndTechnologies.md#библиотека-для-javascript-с-открытым-исходным-кодом-предназначенная-для-управления-состоянием-приложения-чаще-всего-используется-в-связке-с-react-или-angular-для-разработки-клиентской-части-содержит-ряд-инструментов-позволяющих-значительно-упростить-передачу-данных-хранилища-через-контекст-создатели-даниил-абрамов-и-эндрю-кларк "Библиотека для JavaScript с открытым исходным кодом, предназначенная для управления состоянием приложения. Чаще всего используется в связке с React или Angular для разработки клиентской части. Содержит ряд инструментов, позволяющих значительно упростить передачу данных хранилища через контекст. Создатели: Даниил Абрамов и Эндрю Кларк.")
-
-<p style="margin: 50px 0"></p>
-
-### /Контакты:
+[![Email](https://img.shields.io/badge/me@eev9enn.ru-0f172a?style=flat-square&logo=maildotru&logoColor=white)](mailto:me@eev9enn.ru)
+[![Telegram](https://img.shields.io/badge/@EEv9ENN-0f172a?style=flat-square&logo=telegram&logoColor=27A0D9)](https://t.me/EEv9ENN)
 
 ---
 
-[![EMAIL](https://img.shields.io/badge/-e~mail-090909?style=for-the-badge&logo=gmail&logoColor=E9D54D)](mailto:me@eev9enn.ru "Написать мне письмо 📧")
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/EEv9ENN "Написать мне в @Telegram")
+## Опыт
+
+### Fullstack-разработчик — [kassa-ugra.ru](https://kassa-ugra.ru/) · 2024 — сейчас
+
+Билетная афиша. Переписал её в одиночку: раньше она работала на PHP 7, jQuery и внешнем API, который собирались отключить. Теперь это мультигородская платформа, где у каждого города свой поддомен.
+
+- **Архитектура:** Nuxt 4 (SSR) на фронтенде, Express + Prisma + PostgreSQL на бэкенде. Схему БД спроектировал сам.
+- **Миграция без потерь:** логировал ответы старого API в JSONL, затем импортировал и дедуплицировал данные. Старый API сохранил ради обратной совместимости.
+- **Интеграция с Яндекс.Билетами:** синхронизация каталога через upsert по `external_id`, журнал синхронизаций, запуск по cron.
+- **CMS-админка:** JWT, 4 роли, CRUD-разделы, загрузка и обработка изображений (sharp).
+- **SEO и PWA:** JSON-LD, динамические sitemap и robots, офлайн-режим.
+- **Безопасность:** helmet, rate-limit, валидация входных данных через Zod.
+
+### Frontend-разработчик (Vue 3 / TypeScript) — финтех-платформа для инвестиций · 2024 — 2026
+
+Экосистема из 6 приложений: личный кабинет инвестора, CRM для сотрудников, сервис авторизации, внутренние сервисы и общий UI-kit.
+
+- **Личный кабинет:** перевёл проект с JS на TypeScript и добавил проверку контрактов с API через Zod. Сделал анкеты на динамических формах, график возвратов (аннуитетный и отложенный) и SMS/OTP-подтверждение с guard'ом.
+- **CRM:** универсальная таблица с фильтрами, пагинацией и экспортом. Сделал блокировку пользователей с историей, работу с платежами (защита от повторной оплаты, расчёт пени) и мультизагрузку документов.
+- **Авторизация:** вход, регистрация, обновление токенов. Настроил генерацию API-клиента из Swagger: типы, Zod-схемы и хуки Vue Query создаются автоматически.
+- **UI-kit:** вынес библиотеку в отдельную сборку и подключил её как npm-пакет. Сделал сервис модальных окон на Pinia, ввёл дизайн-токены и адаптировал компоненты под мобильные. Перевёл проект на Vite 8 / Rolldown.
+- **В команде:** code review, стандарты кода, менторинг junior-разработчиков, согласование API с бэкендом, планирование спринтов.
+
+---
+
+## Пример кода
+
+Код с работы закрыт NDA, поэтому основные подходы я заново реализовал в отдельном демо-проекте.
+
+### [Live_Investment](https://github.com/EvgeniiGladun/Live_Investment) — кабинет инвестора и админка
+
+`Vue 3` `TypeScript` `Pinia` `TanStack Query` `Zod` `Vitest`
+
+| Что показывает | Где смотреть |
+| --- | --- |
+| Админ-панель: таблица с поиском, фильтрами, сортировкой, массовыми действиями, экспортом в CSV и состоянием в URL | `src/pages/admin/UsersPage.vue` |
+| Личный кабинет: портфель с вкладками по статусам и выделением просрочек | `src/pages/PortfolioPage.vue` |
+| Формы по JSON-схеме: поля появляются в зависимости от ответов, ошибки бэкенда показываются под полями | `src/modules/dynamic-form` |
+| Авторизация: OTP, refresh-токены, доступ по ролям | `src/router`, `src/stores` |
+| Адаптивность: на мобильном таблицы превращаются в карточки, есть бургер-меню | `src/modules/data-table` |
+
+98 тестов. Бизнес-логика вынесена в чистые функции и покрыта unit-тестами.
+
+---
+
+## Стек
+
+**Frontend**<br>
+![Vue.js](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+**Backend**<br>
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Инструменты**<br>
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+
+---
+
+<details>
+<summary><b>Учебные проекты (Яндекс Практикум, 2023)</b></summary>
+<br>
+
+- [Movies Explorer](https://github.com/EvgeniiGladun/movies-explorer-frontend) — дипломный проект на React: поиск фильмов с фильтрами и сохранением в профиль.
+- [Mesto](https://evgeniigladun.github.io/mesto) — галерея карточек с лайками и работой с API.
+- [Путешествие по России](https://evgeniigladun.github.io/russian-travel/) — адаптивная вёрстка по БЭМ.
+- [Виселица](https://evgeniigladun.github.io/game-Hangman/) — игра на чистом JavaScript.
+
+</details>
